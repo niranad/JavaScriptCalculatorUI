@@ -23,7 +23,7 @@ A static page with a basic calculator functionality built with [React.js](https:
 
 ## Project Link
 
-The project with all tests passing is live with Github pages at [javascript-calculator](https://niranad.github.io/javascript-calculator). Tests can be run at this [codepen](https://codepen.io/niranad/full/eYvveqP).
+The project with all tests passing is live with Github pages at [javascript-calculator](https://niranad.github.io/javascript-calculator). The specified tests can be run against the project via this [codepen](https://codepen.io/niranad/full/eYvveqP).
 
 ## Project Source
 
