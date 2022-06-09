@@ -368,11 +368,9 @@ class Calculator extends React.Component {
         )}
 
         <p>
-          <em>by Adeniran</em>
+          <em>logo icon by Freepik</em>
         </p>
-        <p>
-          <em>icon sourced from flaticon</em>
-        </p>
+
         <div id="calculator">
           <div id="screen">
             <input id="formula" type="text" value={formula} readOnly />
