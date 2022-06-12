@@ -2,7 +2,7 @@
 
 ## Description
 
-A static page with a basic calculator functionality built with [React.js](https://reactjs.org).
+A static page with a basic calculator functionality built with [Reactjs](https://reactjs.org).
 
 ## Technologies
 
