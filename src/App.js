@@ -1,5 +1,5 @@
 import './App.scss';
-import Calculator from './calculator';
+import Calculator from './Calculator';
 
 const App = () => {
   return (
