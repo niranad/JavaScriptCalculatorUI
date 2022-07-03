@@ -1,6 +1,5 @@
 {
   "name": "javascriptcalculator",
-  "homepage": "https://niranad.github.io/javascript-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -43,3 +42,4 @@
     "gh-pages": "^4.0.0"
   }
 }
+

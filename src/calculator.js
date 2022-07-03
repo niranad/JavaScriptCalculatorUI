@@ -368,7 +368,19 @@ class Calculator extends React.Component {
         )}
 
         <p>
-          <em>logo icon by Freepik</em>
+          <em>
+            Logo icon is created by
+            <a
+              style={{ textDecoration: 'none' }}
+              href='https://www.flaticon.com/free-icons/calculator'
+              title='quote icons'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
+              {' '}
+              Freepik - Flaticon
+            </a>
+          </em>
         </p>
 
         <div id='calculator'>
